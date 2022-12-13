@@ -133,3 +133,13 @@ dmypy.json
 .vscode/
 *.jpg
 *.zip
+artifacts/training/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-13-15-41-06/validation/events.out.tfevents.1670928498.LAPTOP-T170M8C7.2944.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-13-15-41-06/train/events.out.tfevents.1670926270.LAPTOP-T170M8C7.2944.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-13-14-09-42/validation/events.out.tfevents.1670924023.LAPTOP-T170M8C7.14576.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-13-14-09-42/train/events.out.tfevents.1670920788.LAPTOP-T170M8C7.14576.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-12-16-39-40/train/events.out.tfevents.1670843384.LAPTOP-T170M8C7.7376.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-12-15-53-09/validation/events.out.tfevents.1670843051.LAPTOP-T170M8C7.14844.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-12-15-53-09/train/events.out.tfevents.1670840595.LAPTOP-T170M8C7.14844.0.v2
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_base_model/base_model_updated.h5
