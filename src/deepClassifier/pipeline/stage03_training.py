@@ -1,4 +1,3 @@
-
 from deepClassifier.config import ConfigurationManager
 from deepClassifier.components import PrepareCallback, Training
 from deepClassifier import logger
@@ -10,7 +9,7 @@ def main():
     prepare_callbacks_config = config.get_prepare_callback_config()
     prepare_callbacks = PrepareCallback(config=prepare_callbacks_config)
     callback_list = prepare_callbacks.get_tb_ckpt_callbacks()
-
+    
     training_config = config.get_training_config()
     training = Training(config=training_config)
     training.get_base_model()
