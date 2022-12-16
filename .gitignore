@@ -143,3 +143,4 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-12-15-53-09/v
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-12-12-15-53-09/train/events.out.tfevents.1670840595.LAPTOP-T170M8C7.14844.0.v2
 artifacts/prepare_callbacks/checkpoint_dir/model.h5
 artifacts/prepare_base_model/base_model_updated.h5
+scores.json
